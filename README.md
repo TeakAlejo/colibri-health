@@ -1,8 +1,19 @@
-# colibri-health
+# Colibrí Health
 Nutrition tracking platform for Proyecto Colibrí at Universidad Icesi.
 
-# Colibrí Health
+## Inspiración
 
+Colibrí Health nació a partir de una experiencia personal.
+
+Durante mi proceso de adoptar hábitos más saludables y realizar un cambio físico, comprendí que uno de los factores más importantes para alcanzar un objetivo nutricional es conocer cuántas calorías y macronutrientes se consumen diariamente. Sin embargo, también descubrí que para muchas personas este proceso puede resultar complejo, confuso o desmotivador.
+
+Aplicaciones como Fitia me permitieron aprender la importancia de llevar un seguimiento de la alimentación, pero esta experiencia despertó en mí una pregunta: ¿por qué no desarrollar una herramienta propia que, además de ayudarme a seguir aprendiendo como desarrollador, pudiera facilitar este proceso a otros estudiantes?
+
+Así nació Colibrí Health.
+
+## Visión del proyecto
+
+El propósito del proyecto es utilizar la tecnología para ayudar a las personas a comprender mejor su alimentación, hacer seguimiento a su progreso y construir hábitos saludables de una manera sencilla, intuitiva y accesible. A largo plazo, la visión es que esta plataforma pueda convertirse en una herramienta de apoyo para iniciativas de bienestar como el Proyecto Colibrí de la Universidad Icesi.
 Colibrí Health es una plataforma de seguimiento nutricional desarrollada como un proyecto personal con el objetivo de apoyar el Proyecto Colibrí de la Universidad Icesi.
 
 El proyecto nace a partir de mi experiencia personal aprendiendo a mejorar mis hábitos alimenticios y llevar un control de mi nutrición durante un proceso de déficit calórico. Durante este proceso identifiqué la necesidad de una herramienta que facilitara el cálculo de calorías y macronutrientes, así como el seguimiento del progreso físico de una manera sencilla e intuitiva.
